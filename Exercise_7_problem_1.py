@@ -66,6 +66,7 @@ plt.xlabel('x-rabel')
 plt.ylabel('y-rabel')
 plt.show()
 
+
 # Save the plot as a png file:
 outputfp = "my_first_plot.png"
 
