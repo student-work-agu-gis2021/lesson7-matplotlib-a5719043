@@ -61,6 +61,10 @@ plt.scatter(data['x'],data['y'],s=50,c=colors,cmap='rainbow',edgecolor='black')
 
 # Add labels and title
 # YOUR CODE HERE 4
+plt.title('My random candy points')
+plt.xlabel('x-rabel')
+plt.ylabel('y-rabel')
+plt.show()
 
 # Save the plot as a png file:
 outputfp = "my_first_plot.png"
